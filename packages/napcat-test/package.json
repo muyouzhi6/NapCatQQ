@@ -8,7 +8,7 @@
     "test:ui": "vitest --ui"
   },
   "devDependencies": {
-    "vitest": "^4.0.9"
+    "vitest": "^4.1.0"
   },
   "dependencies": {
     "napcat-core": "workspace:*",
