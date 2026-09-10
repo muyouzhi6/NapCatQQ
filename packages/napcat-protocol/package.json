@@ -20,7 +20,7 @@
     "@sinclair/typebox": "^0.34.38",
     "cors": "^2.8.5",
     "express": "^5.0.0",
-    "ws": "^8.18.3",
+    "ws": "^8.21.0",
     "json5": "^2.2.3",
     "napcat-core": "workspace:*",
     "napcat-common": "workspace:*"
