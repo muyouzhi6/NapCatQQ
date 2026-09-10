@@ -16,7 +16,7 @@
     }
   },
   "dependencies": {
-    "@simplewebauthn/server": "^13.2.2",
+    "@simplewebauthn/server": "^13.3.2",
     "@sinclair/typebox": "^0.34.38",
     "ajv": "^8.13.0",
     "compressing": "^1.10.3",
@@ -24,11 +24,11 @@
     "express": "^5.0.0",
     "express-rate-limit": "^7.5.0",
     "json5": "^2.2.3",
-    "multer": "^2.0.1",
+    "multer": "^2.3.0",
     "napcat-common": "workspace:*",
     "napcat-dpapi": "workspace:*",
     "napcat-pty": "workspace:*",
-    "ws": "^8.18.3"
+    "ws": "^8.21.0"
   },
   "devDependencies": {
     "@types/compression": "^1.8.1",
